@@ -1,0 +1,31 @@
+html, body, header, strong, nav, div, h1, h2, h3, table, img, p, a{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: rgb(225, 238, 237);
+}
+
+
+header{
+    background-color: #0DCAF0;
+}
+
+#contenedor1 img{
+    padding-right: 15px;
+}
+
+#contenedor1 div div a{
+    font-size: 20px;
+    
+}
+
+#contenedor1 div a{
+    font-size: 25px;
+}
+
+#contenedor2 div div img{
+    padding: 20px;
+    height: 350px;
+}
