@@ -4,7 +4,7 @@ html, body, header, strong, nav, div, h1, h2, h3, table, img, p, a{
 }
 
 body {
-    background-color: rgb(228, 247, 253) !important;
+    background-color: rgb(216, 239, 247) !important;
 }
 
 
@@ -103,4 +103,44 @@ header{
 footer{
     width: 80%;
     border: 2px solid blue;
+}
+
+
+
+#contenedor6 img{
+    padding-right: 15px;
+}
+
+#contenedor6 div div a{
+    font-size: 20px;
+    
+}
+
+#contenedor6 div a{
+    font-size: 25px;
+}
+
+#contenedor7 div div img{
+    padding-top: 20px;
+    height: 330px;
+}
+
+
+
+
+
+
+#formulario1{
+    border: 3px solid blue;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+#contenedor10 div div img{
+    padding-top: 20px;
+    height: 330px;
 }
