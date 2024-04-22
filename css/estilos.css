@@ -3,9 +3,10 @@ html, body, header, strong, nav, div, h1, h2, h3, table, img, p, a{
     padding: 0;
 }
 
-html{
-    background-color: rgb(225, 238, 237);
+body {
+    background-color: rgb(228, 247, 253) !important;
 }
+
 
 
 header{
@@ -26,6 +27,80 @@ header{
 }
 
 #contenedor2 div div img{
+    padding-top: 20px;
+    height: 330px;
+}
+
+#contenedor3{
+    border: 3px solid cyan;
+    text-align: center;
+    padding-right: 5px;
+    color: rgb(33, 32, 102);
+    background-color: rgb(207, 203, 245);
+}
+
+#noticia1{
+    border: 3px solid;
+    width: 90%;
     padding: 20px;
-    height: 350px;
+    background-color: #c2c4d6;
+}
+
+#noticia1 img{
+    height: 150px;
+    width: 150px;
+    border: 3px solid;
+}
+
+#noticia2 img{
+    height: 150px;
+    width: 150px;
+    border: 3px solid;
+}
+
+#noticia2{
+    border: 3px solid;
+    width: 90%;
+    padding: 20px;
+    background-color: #c2c4d6;
+}
+#noticia3 img{
+    height: 150px;
+    width: 150px;
+    border: 3px solid;
+}
+
+#noticia3{
+    border: 3px solid;
+    width: 90%;
+    padding: 20px;
+    background-color: #c2c4d6;
+}
+#contenedor4 #noticia1 a{
+    font-size: 15px;
+    padding-left: 25px;
+}
+
+#contenedor4 #noticia2 a{
+    font-size: 15px;
+    padding-left: 25px;
+}
+
+#contenedor4 #noticia3 a{
+    font-size: 15px;
+    padding-left: 25px;
+}
+
+#contenedor4{
+    padding-left: 120px;
+}
+
+#contenedorinfo{
+    width: 15%;
+    padding-top: 15px;
+}
+
+footer{
+    width: 80%;
+    border: 2px solid blue;
 }
