@@ -144,3 +144,12 @@ footer{
     padding-top: 20px;
     height: 330px;
 }
+
+#cantidad {
+    position: absolute;
+    right: 5px;
+    padding: 5px 10px;
+    height: 10px;
+    width: 10px;
+  }
+
